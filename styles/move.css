@@ -1,0 +1,138 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+# firstdiv {
+    width: 1140px;
+    height: 72px;
+}
+
+#topnav {
+    width: 980px;
+    height: 48px
+}
+
+#imageone {
+    display: inline-block;
+    width: 147px;
+    height: 22px;
+    padding:: 14px;
+    margin: 12px 140px 3px 75px;
+}
+
+#Product {
+    display: inline-block;
+    color: #323232;
+    font-size: 19px;
+    width: 67px;
+    height: 23px;
+}
+
+#Services {
+    display: inline-block;
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 74px;
+    height: 22px;
+}
+
+#Resources {
+    display: inline-block;
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    margin-right: 20px;
+    width: 89px;
+    height: 22px;
+}
+
+#Offers {
+    display: inline-block;
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    width: 53px;
+    height: 22px;
+}
+
+#Contact-us {
+    color: #AC00FF;
+    font-size: 14px;
+    padding: 8px 16px;
+    margin-left: 150px;
+    width: 73px;
+    height: 17px;
+    background-color: #E9D7FE;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+}
+
+#Seconddiv {
+    margin: ;
+    width: 841px;
+    height: 314px;
+    margin: 76px 865px 24px 214px;
+}
+
+#Simple {
+    color: #323232;
+    font-size: 64px;
+    width: 720px;
+    height: 148px;
+}
+
+#money {
+    color: #323232;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    width: 841px;
+    height: 64px;
+}
+
+#Join {
+    display: inline-block;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 18px;
+    padding: 16px 24px;
+    background-color: #5C3BAE;
+    border-radius: 8px;
+    width: 204px;
+    height: 54px;
+    margin-right: 24px;
+}
+
+#divthree {
+    width: 422px;
+    height: 54px;
+}
+
+#videos {
+    color: #4D3491;
+    font-size: 18px;
+    text-decoration-line: underline;
+    margin-left: 12px;
+    width: 150px;
+    height: 22px;
+}
+
+#imagetwo {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+
+#divfour {
+    width: 1311px;
+    height: 633px;
+    text-align: right;
+    margin-left: 360px;
+    align-items: center;
+}
