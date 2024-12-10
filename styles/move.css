@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-# firstdiv {
+#firstdiv {
     width: 1140px;
     height: 72px;
 }
@@ -19,7 +19,6 @@
     display: inline-block;
     width: 147px;
     height: 22px;
-    padding:: 14px;
     margin: 12px 140px 3px 75px;
 }
 
